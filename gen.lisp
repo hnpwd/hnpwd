@@ -113,6 +113,7 @@
     (format s "        <nav>~%")
     (format s (make-site-link (getf item :site) "Website"))
     (format s (make-site-link (getf item :about) "About"))
+    (format s (make-site-link (getf item :blog) "Blog"))
     (format s (make-site-link (getf item :now) "Now"))
     (format s (make-site-link (getf item :feed) "Feed"))
     (format s (make-user-link (getf item :hnuid) "HN"))

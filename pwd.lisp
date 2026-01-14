@@ -12,6 +12,7 @@
   :site "https://jgc.org/"
   :feed "https://blog.jgc.org/feeds/posts/default"
   :about "https://www.seangoedecke.com/about"
+  :blog "https://blog.jgc.org/"
   :hnuid "jgc"
   :bio "Original writer of POPFile.  Member of the board of directors at Cloudflare.")
 
@@ -40,6 +41,7 @@
   :site "https://example.com/"
   :feed "https://example.com/feed.xml"
   :about "https://example.com/about/"
+  :blog "https://example.com/blog/ (Only if your blog URL is not the same as the site URL.)"
   :now "https://example.com/now/"
   :hnuid "example (user ID on HN)"
   :bio "A brief third-person description of yourself, not exceeding 80 characters.")
