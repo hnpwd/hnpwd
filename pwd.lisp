@@ -20,6 +20,7 @@
   :site "https://zahlman.github.io/"
   :feed "https://zahlman.github.io/rss.xml"
   :about "https://zahlman.github.io/pages/about/"
+  :hnuid "zahlman"
   :bio "Tools developer and Python educator.")
 
  (:name "Sean Goedecke"
