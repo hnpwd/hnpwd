@@ -1,7 +1,14 @@
 ;;;; HN Personal Websites Directory
 ;;;; ==============================
 
-((:name "Aditya Athalye"
+((:name "Abigail Pain"
+  :site "https://www.akpain.net"
+  :blog "https://www.akpain.net/blog/"
+  :feed "https://www.akpain.net/blog/feed.atom"
+  :hnuid "akpa1"
+  :bio "Student, photographer and programmer. Writes about everything and anything.")
+
+ (:name "Aditya Athalye"
   :site "https://www.evalapply.org/"
   :blog "https://www.evalapply.org/posts/"
   :feed "https://www.evalapply.org/index.xml"
