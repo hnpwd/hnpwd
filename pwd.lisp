@@ -450,13 +450,6 @@
   :hnuid "abareplace"
   :bio "C/C++ and x86 assembly language.")
 
- (:name "Phil Booth"
-  :site "https://philbooth.me/"
-  :blog "https://philbooth.me/blog"
-  :feed "https://philbooth.me/blog/atom.xml"
-  :hnuid "philbo"
-  :bio "Progressive working class software engineer and dog person.")
-
  (:name "Peter's Path"
   :site "https://peterspath.net/"
   :blog "https://peterspath.net/blog/"
@@ -464,7 +457,21 @@
   :about "https://peterspath.net/about/"
   :now "https://peterspath.net/now/"
   :hnuid "peterspath"
-  :bio "Development, hiking, reading, and embracing nature, faith, & ideas.")
+  :bio "Development, hiking, reading and embracing nature, faith and ideas.")
+
+ (:name "Phil Booth"
+  :site "https://philbooth.me/"
+  :blog "https://philbooth.me/blog"
+  :feed "https://philbooth.me/blog/atom.xml"
+  :hnuid "philbo"
+  :bio "Progressive working class software engineer and dog person.")
+
+ (:name "Phil Booth"
+  :site "https://philbooth.me/"
+  :blog "https://philbooth.me/blog"
+  :feed "https://philbooth.me/blog/atom.xml"
+  :hnuid "philbo"
+  :bio "Progressive working class software engineer and dog person.")
 
  (:name "Philip I. Thomas"
   :site "https://philipithomas.com/"
