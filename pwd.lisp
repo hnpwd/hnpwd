@@ -359,6 +359,11 @@
   :hnuid "WillAbides"
   :bio "A gopher who occasionally writes about Go.")
 
+ (:name "Yan Solo"
+  :blog "https://entropylogs.com"
+  :hnuid "yan_solo42"
+  :bio "Builds stuff that some people find useful and writes about tech and CTFs.")
+
  (:name "Xe Iaso"
   :site "https://xeiaso.net/"
   :blog "https://xeiaso.net/blog/"
