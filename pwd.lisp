@@ -274,6 +274,12 @@
   :hnuid "peterbe"
   :bio "Web developer.  Writes about Python, TypeScript, side projects and technology.")
 
+ (:name "Peter Kankowski"
+  :site "https://www.strchr.com/"
+  :feed "https://www.strchr.com/?feed=/"
+  :hnuid "abareplace"
+  :bio "C/C++ and x86 assembly language.")
+
  (:name "Phil Booth"
   :site "https://philbooth.me/"
   :blog "https://philbooth.me/blog"
