@@ -267,6 +267,13 @@
   :hnuid "nchagnet"
   :bio "Writes about physics, technology and data science.")
 
+ (:name "Nikhil Anand"
+  :site "https://nikhil.io/"
+  :feed "https://nikhil.io/feed.xml"
+  :about "https://nikhil.io/about/"
+  :hnuid "afreeorange"
+  :bio "Former fullstack engineer. Biomedical informatics grad student in NYC.")
+
  (:name "Peter Bengtsson"
   :site "https://www.peterbe.com/"
   :feed "https://www.peterbe.com/rss.xml"
