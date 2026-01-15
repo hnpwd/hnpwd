@@ -235,6 +235,13 @@
   :hnuid "lawgimenez"
   :bio "Mobile developer.  Writes both work and personal stuff.")
 
+ (:name "Lorenzo Gravina"
+  :site "https://lorenzogravina.com"
+  :blog "https://trms.me"
+  :feed "https://trms.me/feed/"
+  :hnuid "trms"
+  :bio "Product manager. Writes about knowledge management and random hobbies.")
+
  (:name "Matt Crampton"
   :site "https://www.mattcrampton.com"
   :feed "https://www.mattcrampton.com/feed.xml"
