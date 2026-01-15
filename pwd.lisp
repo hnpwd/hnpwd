@@ -261,6 +261,12 @@
   :hnuid "mike_d"
    :bio "Security researcher.  First engineer at OpenDNS.")
 
+ (:name "Nabraj"
+  :site "https://nabraj.com/"
+  :blog "https://nabraj.com/blog"
+  :feed "https://nabraj.com/rss.xml"
+  :bio "Full-stack engineer, currently throwing all his energy on breadboards and robots.")
+ 
  (:name "Nicolas Chagnet"
   :site "https://nchagnet.pages.dev/"
   :feed "https://nchagnet.pages.dev/rss.xml"
