@@ -132,6 +132,14 @@
   :hnuid "DustinBrett"
   :bio "Self-taught software engineer, traveler, father and husband.")
 
+  (:name "Ed Thomas"
+  :site "https://ed-thomas.dev"
+  :blog "https://ed-thomas.dev/blog"
+  :feed "https://ed-thomas.dev/rss.xml"
+  :now "https://ed-thomas.dev/now"
+  :hnuid "pixel87"
+  :bio "Comp Sci student, making things.")
+
  (:name "Gavin D. Howard"
   :site "https://gavinhoward.com/"
   :feed "https://gavinhoward.com/index.xml"
