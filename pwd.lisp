@@ -139,6 +139,13 @@
   :hnuid "d_silin"
   :bio "Space researcher and software developer.")
 
+ (:name "Dmitrij Loktev"
+  :site "https://potomushto.com/"
+  :feed "https://potomushto.com/feed.xml"
+  :about "https://potomushto.com/about/"
+  :hnuid "potomushto"
+  :bio "Software Developer.  Reexamining the craft in uncertain times.")
+
  (:name "Dominic Mason"
   :site "https://domson.dev/"
   :feed "https://domson.dev/atom.xml"
