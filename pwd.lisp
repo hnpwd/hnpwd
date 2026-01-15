@@ -141,6 +141,11 @@
   :hnuid "mike-cardwell"
   :bio "Writes about tech, privacy, security and programming.")
 
+  (:name "Mike Damm"
+  :site "https://mikedamm.com/"
+  :hnuid "mike_d"
+   :bio "Security researcher.  First engineer at OpenDNS.")
+
  (:name "Nicolas Chagnet"
   :site "https://nchagnet.pages.dev/"
   :feed "https://nchagnet.pages.dev/rss.xml"
