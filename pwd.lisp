@@ -146,6 +146,12 @@
   :hnuid "i7l"
   :bio "Writes about machine learning, quantum computing and product management.")
 
+ (:name "Hnst One"
+  :site "https://hnst1.com/"
+  :about "https://hnst1.com/about/"
+  :hnuid "hnst1"
+  :bio "Help and support knowledge sharing across topics many may find interesting.")
+
  (:name "Jeff Geerling"
   :site "https://www.jeffgeerling.com/"
   :feed "https://www.jeffgeerling.com/blog.xml"
