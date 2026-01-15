@@ -218,6 +218,12 @@
   :hnuid "flurdy"
   :bio "Opinionated software engineer, architect and manager.")
 
+ (:name "Jacky Li"
+  :site "https://drshapeless.com/"
+  :blog "https://drshapeless.com/blog/"
+  :hnuid "drshapeless"
+  :bio "Health professional who is very into programming, Emacs, game development.")
+
  (:name "Jeff Geerling"
   :site "https://www.jeffgeerling.com/"
   :feed "https://www.jeffgeerling.com/blog.xml"
