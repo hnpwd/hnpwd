@@ -486,10 +486,15 @@
   :feed "https://xeiaso.net/blog.rss"
   :hnuid "xena"
   :bio "Creator of Anubis.  Technical educator, conference speaker and Twitch streamer.")
+  
+ (:name "Yan Solo"
+  :site "https://entropylogs.com/"
+  :hnuid "yan_solo42"
+  :bio "Builds stuff that some people find useful and writes about tech and CTFs.")
 
  (:name "Yash Mehrotra"
   :site "https://yashmehrotra.com/"
-  :blog "https://yashmehrotra.com/posts"
+  :blog "https://yashmehrotra.com/posts/"
   :feed "https://yashmehrotra.com/index.xml"
   :hnuid "yashmehrotra"
   :bio "Backend and infrastructure engineer.  Author of Hugo Gokarna theme.")
