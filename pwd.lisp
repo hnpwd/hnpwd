@@ -360,6 +360,14 @@
   :hnuid "xena"
   :bio "Creator of Anubis.  Technical educator, conference speaker and Twitch streamer.")
 
+ (:name "Silvestar Bistrović"
+  :site "https://www.silvestar.codes/"
+  :blog "https://www.silvestar.codes/articles/"
+  :feed "https://www.silvestar.codes/rss.xml"
+  :about "https://www.silvestar.codes/about/"
+  :hnuid "starbist"
+  :bio "A fearless web engineer, CSS developer, JAMstack enthusiast, WordPress theme specialist, author of the UI Dev Newsletter, and founder of Studio CiTA.")
+
  ;; You may copy the following entry to add one for your website.
  ;; Insert your entry at an appropriate place above so that the
  ;; entries remain sorted alphabetically by name.  Delete any
