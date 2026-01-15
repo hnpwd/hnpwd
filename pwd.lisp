@@ -29,6 +29,13 @@
   :hnuid "pixelmonkey"
   :bio "Founder of PX. Formerly founding CTO of Parse.ly. Pythonista and UNIX lover.")
 
+ (:name "Alex Tiniuc"
+  :site "https://tiniuc.com/"
+  :feed "https://tiniuc.com/atom.xml"
+  :about "https://tiniuc.com/about-me"
+  :hnuid "tiniuclx"
+  :bio "Embedded software engineer, musician & game developer.")
+ 
  (:name "Anthony Bonkoski"
   :site "https://xorvoid.com/"
   :feed "https://xorvoid.com/rss.xml"
