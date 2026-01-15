@@ -357,7 +357,7 @@
   :site "https://vijethph.github.io/"
   :blog "https://vijethph.github.io/ruminations/"
   :feed "https://vijethph.github.io/ruminations/rss.xml"
-  :about "https://vijethph.github.io/ruminations/about"
+  :about "https://vijethph.github.io/ruminations/about/"
   :hnuid "vijethph"
   :bio "Student at University College Dublin; former senior software engineer.")
 
