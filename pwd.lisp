@@ -16,6 +16,12 @@
   :hnuid "sigil"
   :bio "Art-tech software developer and founder.")
 
+ (:name "Alex Lance"
+  :site "https://alexlance.blog/"
+  :feed "https://alexlance.blog/feed.xml"
+  :hnuid "alance"
+  :bio "Short stories and tech experiments.")
+
  (:name "Alex Narayan"
   :site "https://gigatexal.blog/"
   :about "https://gigatexal.blog/pages/about/about.html"
