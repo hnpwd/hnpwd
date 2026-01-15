@@ -380,7 +380,7 @@
   :blog "https://terra-incognita.blog"
   :feed "https://terra-incognita.blog/feed.rss"
   :hnuid "incognito124"
-  :bio "Blogger, public speaker, space nerd, tech geek, private pilot")
+  :bio "Blogger, public speaker, space nerd, tech geek, private pilot.")
 
  (:name "Matt Crampton"
   :site "https://www.mattcrampton.com/"
