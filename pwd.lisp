@@ -378,7 +378,7 @@
   :site "https://msmetko.xyz"
   :now "https://msmetko.xyz/now"
   :blog "https://terra-incognita.blog"
-  "feed "https://terra-incognita.blog/feed.rss"
+  :feed "https://terra-incognita.blog/feed.rss"
   :hnuid "incognito124"
   :bio "Blogger, public speaker, space nerd, tech geek, private pilot")
 
