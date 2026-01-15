@@ -179,18 +179,18 @@
   :hnuid "TonyAlicea10"
   :bio "Udemy and Pluralsight author, conference speaker.  Writes about AI, dev and UX.")
 
+ (:name "WillAbides"
+  :site "https://willabides.com"
+  :feed "https://willabides.com/index.xml"
+  :hnuid "WillAbides"
+  :bio "A gopher who occasionally writes about Go.")
+
  (:name "Xe Iaso"
   :site "https://xeiaso.net/"
   :blog "https://xeiaso.net/blog/"
   :feed "https://xeiaso.net/blog.rss"
   :hnuid "xena"
   :bio "Creator of Anubis.  Technical educator, conference speaker and Twitch streamer.")
-
-(:name "WillAbides"
-  :site "https://willabides.com"
-  :feed "https://willabides.com/index.xml"
-  :hnuid "WillAbides"
-  :bio "A gopher who occasionally writes about Go.")
 
  (:name ""
   :site ""

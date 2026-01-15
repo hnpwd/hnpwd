@@ -8,6 +8,12 @@ loop:
 
 pub: gen co push
 
+pr:
+	(git show-ref pr && git branch -d pr) || :
+	@echo; echo 'Enter remote URL <space> branch to fetch:'
+	@read answer && git fetch $$answer:pr; echo
+	git log -n 2 pr
+
 co:
 	git add -p
 	@echo 'Type Enter to commit, Ctrl + C to cancel.'; read

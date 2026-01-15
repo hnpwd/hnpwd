@@ -3,10 +3,10 @@
   <head>
     <title>HN Personal Websites</title>
     <dateCreated>Tue, 14 Jan 2025 00:00:00 UTC</dateCreated>
-    <dateModified>Thu, 15 Jan 2026 00:57:25 UTC</dateModified>
+    <dateModified>Thu, 15 Jan 2026 01:21:18 UTC</dateModified>
   </head>
   <body>
-    <!-- 27 entries -->
+    <!-- 28 entries -->
     <outline text="HN Personal Websites" title="HN Personal Websites">
       <outline type="rss" text="Aditya Athalye" title="Aditya Athalye" xmlUrl="https://www.evalapply.org/index.xml" htmlUrl="https://www.evalapply.org/"/>
       <outline type="rss" text="Anthony Bonkoski" title="Anthony Bonkoski" xmlUrl="https://xorvoid.com/rss.xml" htmlUrl="https://xorvoid.com/"/>
@@ -30,6 +30,7 @@
       <outline type="rss" text="Simon Willison" title="Simon Willison" xmlUrl="https://simonwillison.net/atom/everything/" htmlUrl="https://simonwillison.net/"/>
       <outline type="rss" text="Susam Pal" title="Susam Pal" xmlUrl="https://susam.net/feed.xml" htmlUrl="https://susam.net/"/>
       <outline type="rss" text="Tony Alicea" title="Tony Alicea" xmlUrl="https://tonyalicea.dev/feed/feed.xml" htmlUrl="https://tonyalicea.dev/"/>
+      <outline type="rss" text="WillAbides" title="WillAbides" xmlUrl="https://willabides.com/index.xml" htmlUrl="https://willabides.com"/>
       <outline type="rss" text="Xe Iaso" title="Xe Iaso" xmlUrl="https://xeiaso.net/blog.rss" htmlUrl="https://xeiaso.net/"/>
     </outline>
   </body>
