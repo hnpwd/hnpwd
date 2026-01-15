@@ -139,6 +139,12 @@
   :hnuid "gavinhoward"
   :bio "Recovering C programmer with many interests.")
 
+  (:name "Hnst One"
+  :site "https://hnst1.com/"
+  :about "https://hnst1.com/about/"
+  :hnuid "hnst1"
+  :bio "Help and support knowledge sharing across topics many may find interesting.")
+ 
  (:name "Ian Reppel"
   :site "https://ianreppel.org"
   :feed "https://ianreppel.org/feed.xml"
