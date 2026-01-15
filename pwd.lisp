@@ -132,7 +132,7 @@
   :hnuid "DustinBrett"
   :bio "Self-taught software engineer, traveler, father and husband.")
 
-  (:name "Ed Thomas"
+(:name "Ed Thomas"
   :site "https://ed-thomas.dev"
   :blog "https://ed-thomas.dev/blog"
   :feed "https://ed-thomas.dev/rss.xml"
