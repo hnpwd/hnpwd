@@ -457,6 +457,15 @@
   :hnuid "philbo"
   :bio "Progressive working class software engineer and dog person.")
 
+ (:name "Peter's Path"
+  :site "https://peterspath.net/"
+  :blog "https://peterspath.net/blog/"
+  :feed "https://peterspath.net/rss.xml"
+  :about "https://peterspath.net/about/"
+  :now "https://peterspath.net/now/"
+  :hnuid "peterspath"
+  :bio "Development, hiking, reading, and embracing nature, faith, & ideas.")
+
  (:name "Philip I. Thomas"
   :site "https://philipithomas.com/"
   :blog "https://contraption.co/"
