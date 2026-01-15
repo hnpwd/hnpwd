@@ -366,6 +366,14 @@
   :hnuid "xena"
   :bio "Creator of Anubis.  Technical educator, conference speaker and Twitch streamer.")
 
+ (:name "Stefan Judis"
+  :site "https://www.stefanjudis.com/"
+  :blog "https://www.stefanjudis.com/blog"
+  :feed "https://www.stefanjudis.com/rss.xml"
+  :about "https://www.stefanjudis.com/about/"
+  :hnuid "stefanjudis"
+  :bio "Frontend developer, web educator and blogger.")
+
  ;; You may copy the following entry to add one for your website.
  ;; Insert your entry at an appropriate place above so that the
  ;; entries remain sorted alphabetically by name.  Delete any
