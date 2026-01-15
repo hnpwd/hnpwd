@@ -457,7 +457,7 @@
   :about "https://peterspath.net/about/"
   :now "https://peterspath.net/now/"
   :hnuid "peterspath"
-  :bio "Development, hiking, reading and embracing nature, faith and ideas.")
+  :bio "Development, hiking, reading, embracing nature, faith and ideas.")
 
  (:name "Phil Booth"
   :site "https://philbooth.me/"
