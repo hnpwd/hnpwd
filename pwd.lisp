@@ -25,7 +25,7 @@
  (:name "Alex Tiniuc"
   :site "https://tiniuc.com/"
   :feed "https://tiniuc.com/atom.xml"
-  :about "https://tiniuc.com/about-me"
+  :about "https://tiniuc.com/about-me/"
   :hnuid "tiniuclx"
   :bio "Embedded software engineer, musician and game developer.")
  
