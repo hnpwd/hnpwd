@@ -374,6 +374,14 @@
   :hnuid "trms"
   :bio "Product manager.  Writes about knowledge management and random hobbies.")
 
+ (:name "Marijan Smetko"
+  :site "https://msmetko.xyz"
+  :now "https://msmetko.xyz/now"
+  :blog "https://terra-incognita.blog"
+  "feed "https://terra-incognita.blog/feed.rss"
+  :hnuid "incognito124"
+  :bio "Blogger, public speaker, space nerd, tech geek, private pilot")
+
  (:name "Matt Crampton"
   :site "https://www.mattcrampton.com/"
   :feed "https://www.mattcrampton.com/feed.xml"
