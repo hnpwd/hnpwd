@@ -123,7 +123,7 @@
   :site "https://domson.dev/"
   :feed "https://domson.dev/atom.xml"
   :hnuid "domson-dev"
-  :bio "Makes hobby projects of software/electronics/wood etc. Fan of the small web.")
+  :bio "Makes hobby projects of software/electronics/wood etc.  Fan of the small web.")
 
  (:name "Doug Slater"
   :site "https://www.slater.dev/"
