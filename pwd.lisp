@@ -366,6 +366,11 @@
   :hnuid "xena"
   :bio "Creator of Anubis.  Technical educator, conference speaker and Twitch streamer.")
 
+ (:name "Yan Solo"
+  :blog "https://entropylogs.com"
+  :hnuid "yan_solo42"
+  :bio "Builds stuff that some people find useful and writes about tech and CTFs.")
+
  ;; You may copy the following entry to add one for your website.
  ;; Insert your entry at an appropriate place above so that the
  ;; entries remain sorted alphabetically by name.  Delete any
