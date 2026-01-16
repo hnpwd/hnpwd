@@ -283,6 +283,13 @@
   :hnuid "lawgimenez"
   :bio "Mobile developer.  Writes both work and personal stuff.")
 
+ (:name "Mark Dominus"
+  :site "https://blog.plover.com/"
+  :feed "https://blog.plover.com/index.atom"
+  :about "https://blog.plover.com/meta/about-me.html"
+  :hnuid "mjd"
+  :bio "Programmer and amateur mathematician.  Very eclectic subject matter.")
+        
  (:name "Matt Crampton"
   :site "https://www.mattcrampton.com/"
   :feed "https://www.mattcrampton.com/feed.xml"
