@@ -19,7 +19,8 @@ Contents
 
 * [Add Your Website](#add-your-website)
   * [Criteria](#criteria)
-  * [Add](#add)
+  * [Add via PR](#add-via-pr)
+  * [Add via Issue](#add-via-issue)
 * [FAQ](#faq)
 * [Licence](#licence)
 * [Contact](#contact)
@@ -50,7 +51,7 @@ requesting its inclusion in the directory:
     little value to the community.
 
 
-### Add
+### Add via PR
 
 Add the website details to [pwd.lisp][lisp] and submit a pull request.
 
@@ -62,15 +63,69 @@ creating a pull request, please follow these guidelines:
 
  2. Ensure that the bio text does not exceed 80 characters.
 
- 3. Ensure that the bio ends with a full stop (period).
+ 3. End the bio text with a full stop (period).
 
- 4. If certain information is not available or should not be included,
+ 4. Do not use ampersand ('&') in the bio text.  Write the word 'and'
+    instead.
+
+ 5. Do not use Oxford comma (serial comma) in the bio text.  That is,
+    do not write:
+
+    ```
+    Writes about C, C++, and Go.
+    ```
+
+    Instead, write:
+
+    ```
+    Writes about C, C++ and Go.
+    ```
+
+ 6. Separate two sentences by double spaces.  That is, do not write:
+
+    ```
+    Game developer. Writes about computer graphics.
+    ```
+
+    Instead, write:
+
+    ```
+    Game developer.  Writes about computer graphics.
+    ```
+
+ 7. Begin URLs with `http://` or `https://`.
+
+ 8. If a URL points to the root directory, include the trailing slash.
+    For example, write `https://example.com/` (not
+    `https://example.com`).  This avoids an extra redirect for many
+    clients.
+
+ 9. If certain information is not available or should not be included,
     remove the corresponding property entirely.  For example, if no
     'about' link exists, delete the entire `:about` line from the
     entry.
 
-Alternatively, [create an issue][ISSUES] and post the website details
-in the following format:
+While we recommend that you follow these guidelines, do not worry too
+much about getting everything right on the first attempt.  Automated
+checks run on every pull request and if you miss something, the
+failing checks will tell you what needs fixing.
+
+Aside: The 4th (no Oxford comma) and 5th points above (double spacing
+convention) are likely going to feel awkward to many people.  This
+project uses British English (BrE) and Oxford comma is generally not
+used in BrE.  Further, the original author of this project uses Emacs
+and has configured it to follow the rather old convention of
+separating sentences with double spaces.  As a result, we require
+sentences to be separated by double spaces here as well.  Yes, you
+lose some precious bytes for your 80 character bio.  Consider it the
+price you pay for including your website in this directory.
+
+
+### Add via Issue
+
+If creating a pull request is too much hassle for you, [create an
+issue][ISSUES] instead and post the website details in the following
+format:
 
 ````lisp
 ```
@@ -85,10 +140,8 @@ in the following format:
 ```
 ````
 
-That's it!  Once you create the PR or the issue, we'll take care of
-the rest.
-
-[HN]: HN
+While creating the issue, do follow all the guidelines mentioned in
+the previous section.
 
 
 FAQ

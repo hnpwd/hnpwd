@@ -1,12 +1,18 @@
-all: gen lint
+all: test gen tidy
+
+test:
+	sbcl --noinform --eval "(defvar *quit* t)" --load test.lisp --quit
 
 gen:
 	sbcl --noinform --load gen.lisp --quit
 
+tidy:
+	tidy -q -e index.html
+
 loop:
 	while true; do make gen; sleep 5; done
 
-pub: gen co push
+pub: gen co gh cb
 
 pr:
 	(git show-ref pr && git branch -d pr) || :
@@ -20,15 +26,14 @@ co:
 	@echo 'Type Enter to commit, Ctrl + C to cancel.'; read
 	git commit
 
-push:
+gh:
 	git remote remove gh || :
-	git remote remove cb || :
 	git remote add gh git@github.com:hnpwd/hnpwd.github.io.git
-	git remote add cb git@codeberg.org:hnpwd/pages.git
 	git push gh main
 	git push gh --tags
+
+cb:
+	git remote remove cb || :
+	git remote add cb git@codeberg.org:hnpwd/pages.git
 	git push cb main
 	git push cb --tags
-
-lint:
-	tidy -q -e index.html

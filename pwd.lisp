@@ -16,6 +16,21 @@
   :hnuid "sigil"
   :bio "Art-tech software developer and founder.")
 
+ (:name "Aleksey Tsalolikhin"
+  :site "https://tsalolikhin.com/"
+  :blog "https://tsalolikhin.com/posts/"
+  :feed "https://tsalolikhin.com/posts/index.xml"
+  :about "https://tsalolikhin.com/about/"
+  :now "https://tsalolikhin.com/now/"
+  :hnuid "atsaloli"
+  :bio "IT Operations professional and trainer.")
+
+ (:name "Alex Lance"
+  :site "https://alexlance.blog/"
+  :feed "https://alexlance.blog/feed.xml"
+  :hnuid "alance"
+  :bio "Short stories and tech experiments.")
+
  (:name "Alex Narayan"
   :site "https://gigatexal.blog/"
   :about "https://gigatexal.blog/pages/about/about.html"
@@ -28,12 +43,19 @@
   :hnuid "wttr"
   :bio "An IT sales/project manager turned web developer. Enjoys building useful stuff.")
  
+ (:name "Alex Tiniuc"
+  :site "https://tiniuc.com/"
+  :feed "https://tiniuc.com/atom.xml"
+  :about "https://tiniuc.com/about-me/"
+  :hnuid "tiniuclx"
+  :bio "Embedded software engineer, musician and game developer.")
+
  (:name "Andrew Montalenti"
   :site "https://amontalenti.com/"
   :feed "https://amontalenti.com/feed"
   :about "https://amontalenti.com/about"
   :hnuid "pixelmonkey"
-  :bio "Founder of PX. Formerly founding CTO of Parse.ly. Pythonista and UNIX lover.")
+  :bio "Founder of PX.  Formerly founding CTO of Parse.ly.  Pythonista and UNIX lover.")
 
  (:name "Anthony Bonkoski"
   :site "https://xorvoid.com/"
@@ -63,7 +85,7 @@
   :bio "Writes about AI product development, model-adjacent systems and technology.")
 
  (:name "Bboysoul"
-  :site "https://www.bboy.app"
+  :site "https://www.bboy.app/"
   :feed "https://www.bboy.app/atom.xml"
   :about "https://www.bboy.app/about.html"
   :hnuid "bboysoul"
@@ -99,10 +121,10 @@
   :bio "Palm-OS game dev.  Ramblings about retro-tech and other nostalgia.")
 
  (:name "Charles Wang"
-  :site "https://charleszw.com"
+  :site "https://charleszw.com/"
   :blog "https://charleszw.com/posts"
   :hnuid "charleszw"
-  :bio "Engineer, pixel pushing and bridge carving. Computer graphics and game engines.")
+  :bio "Engineer, pixel pushing and bridge carving.  Computer graphics and game engines.")
 
  (:name "Chris Morgan"
   :site "https://chrismorgan.info/"
@@ -119,11 +141,38 @@
   :hnuid "ciju"
   :bio "Building mental models around programming, finance and other topics.")
 
+ (:name "Cookie Engineer"
+  :site "https://cookie.engineer/"
+  :blog "https://cookie.engineer/weblog/"
+  :feed "https://cookie.engineer/weblog/feed.xml"
+  :hnuid "cookiengineer"
+  :bio "Writing and programming about cyber security, red teaming and purple teaming.")
+
+ (:name "Damian Walsh"
+  :site "https://damianwalsh.co.uk/"
+  :blog "https://damianwalsh.co.uk/posts/"
+  :feed "https://damianwalsh.co.uk/feed.xml"
+  :hnuid "damianwalsh"
+  :bio "Designer based in Manchester, UK.")
+
  (:name "Dennis Silin"
-  :site "https://marscalendar.space"
+  :site "https://marscalendar.space/"
   :about "https://marscalendar.space/about.html"
   :hnuid "d_silin"
   :bio "Space researcher and software developer.")
+
+ (:name "Dmitrij Loktev"
+  :site "https://potomushto.com/"
+  :feed "https://potomushto.com/feed.xml"
+  :about "https://potomushto.com/about/"
+  :hnuid "potomushto"
+  :bio "Software Developer.  Reexamining the craft in uncertain times.")
+
+ (:name "Dominic Mason"
+  :site "https://domson.dev/"
+  :feed "https://domson.dev/atom.xml"
+  :hnuid "domson-dev"
+  :bio "Makes hobby projects of software/electronics/wood etc.  Fan of the small web.")
 
  (:name "Doug Slater"
   :site "https://www.slater.dev/"
@@ -132,11 +181,26 @@
   :hnuid "sltr"
   :bio "Writes fixes for technical and social pains common to all devs.")
 
+ (:name "Dror Nir"
+  :site "https://drornir.dev/"
+  :blog "https://drornir.dev/blog/"
+  :feed "https://drornir.dev/rss.xml"
+  :hnuid "drorn"
+  :bio "Dev and Ops on the cloud.  Sharing mainly techincal knowledge.")
+
  (:name "Dustin Brett"
   :site "https://dustinbrett.com/"
   :feed "https://dustinbrett.com/rss.xml"
   :hnuid "DustinBrett"
   :bio "Self-taught software engineer, traveler, father and husband.")
+
+ (:name "Ed Thomas"
+  :site "https://ed-thomas.dev/"
+  :blog "https://ed-thomas.dev/blog/"
+  :feed "https://ed-thomas.dev/rss.xml"
+  :now "https://ed-thomas.dev/now/"
+  :hnuid "pixel87"
+  :bio "Comp Sci student, making things.")
 
  (:name "Gavin D. Howard"
   :site "https://gavinhoward.com/"
@@ -146,11 +210,19 @@
   :bio "Recovering C programmer with many interests.")
 
  (:name "Ian Reppel"
-  :site "https://ianreppel.org"
+  :site "https://ianreppel.org/"
   :feed "https://ianreppel.org/feed.xml"
   :about "https://ianreppel.org/about"
   :hnuid "i7l"
   :bio "Writes about machine learning, quantum computing and product management.")
+
+ (:name "Ivar Abrahamsen"
+  :site "https://flurdy.com/"
+  :blog "https://blog.flurdy.com/"
+  :feed "https://blog.flurdy.com/feed.xml"
+  :about "https://blog.flurdy.com/about/"
+  :hnuid "flurdy"
+  :bio "Opinionated software engineer, architect and manager.")
 
  (:name "Jeff Geerling"
   :site "https://www.jeffgeerling.com/"
@@ -199,12 +271,25 @@
   :hnuid "jszymborski"
   :bio "Computational biology researcher.  Writes about technology and society.")
 
+ (:name "Joshua Rogers"
+  :site "https://joshua.hu/"
+  :feed "https://joshua.hu/feed.xml"
+  :about "https://joshua.hu/about"
+  :hnuid "mmsc"
+  :bio "Security Engineer and Hacker.  Writes about cybersecurity, hacking and tech.")
+
  (:name "Karl Knechtel"
   :site "https://zahlman.github.io/"
   :feed "https://zahlman.github.io/rss.xml"
   :about "https://zahlman.github.io/pages/about/"
   :hnuid "zahlman"
   :bio "Tools developer and Python educator.")
+
+ (:name "Keshav Rao"
+  :site "https://keshavrao.com/"
+  :feed "https://keshavrao.com/feed.xml"
+  :hnuid "keshav55"
+  :bio "Loves creating experiences people love.")
 
  (:name "Kevin Scott Dias"
   :site "https://www.kevinsdias.com/"
@@ -235,14 +320,21 @@
   :bio "Writes about software.  On the Haskell Foundation Board of Directors.")
 
  (:name "Lawrence Gimenez"
-  :site "https://law.gmnz.xyz"
+  :site "https://law.gmnz.xyz/"
   :blog "https://law.gmnz.xyz/blog/"
   :feed "https://law.gmnz.xyz/feed"
   :hnuid "lawgimenez"
   :bio "Mobile developer.  Writes both work and personal stuff.")
 
+ (:name "Lorenzo Gravina"
+  :site "https://lorenzogravina.com/"
+  :blog "https://trms.me/"
+  :feed "https://trms.me/feed/"
+  :hnuid "trms"
+  :bio "Product manager.  Writes about knowledge management and random hobbies.")
+
  (:name "Matt Crampton"
-  :site "https://www.mattcrampton.com"
+  :site "https://www.mattcrampton.com/"
   :feed "https://www.mattcrampton.com/feed.xml"
   :hnuid "revicon"
   :bio "Writes about software development, startups, camping and beards.")
@@ -262,10 +354,10 @@
   :hnuid "mike-cardwell"
   :bio "Writes about tech, privacy, security and programming.")
 
-  (:name "Mike Damm"
+ (:name "Mike Damm"
   :site "https://mikedamm.com/"
   :hnuid "mike_d"
-   :bio "Security researcher.  First engineer at OpenDNS.")
+  :bio "Security researcher.  First engineer at OpenDNS.")
 
  (:name "Nicolas Chagnet"
   :site "https://nchagnet.pages.dev/"
@@ -279,6 +371,12 @@
   :about "https://www.peterbe.com/about"
   :hnuid "peterbe"
   :bio "Web developer.  Writes about Python, TypeScript, side projects and technology.")
+
+ (:name "Peter Kankowski"
+  :site "https://www.strchr.com/"
+  :feed "https://www.strchr.com/?feed=/"
+  :hnuid "abareplace"
+  :bio "C/C++ and x86 assembly language.")
 
  (:name "Phil Booth"
   :site "https://philbooth.me/"
@@ -318,6 +416,14 @@
   :blog "https://vqi.io/blog/"
   :hnuid "sebasv_"
   :bio "Data scientist and open source contributor.  Writes about solving problems.")
+
+ (:name "Silvestar Bistrović"
+  :site "https://www.silvestar.codes/"
+  :blog "https://www.silvestar.codes/articles/"
+  :feed "https://www.silvestar.codes/rss.xml"
+  :about "https://www.silvestar.codes/about/"
+  :hnuid "starbist"
+  :bio "Web developer, author of the UI Dev Newsletter and founder of Studio CiTA.")
 
  (:name "Simon Willison"
   :site "https://simonwillison.net/"
@@ -359,8 +465,16 @@
   :hnuid "TonyAlicea10"
   :bio "Udemy and Pluralsight author, conference speaker.  Writes about AI, dev and UX.")
 
+ (:name "Vijeth P H"
+  :site "https://vijethph.github.io/"
+  :blog "https://vijethph.github.io/ruminations/"
+  :feed "https://vijethph.github.io/ruminations/rss.xml"
+  :about "https://vijethph.github.io/ruminations/about/"
+  :hnuid "vijethph"
+  :bio "Student at University College Dublin; former senior software engineer.")
+
  (:name "WillAbides"
-  :site "https://willabides.com"
+  :site "https://willabides.com/"
   :feed "https://willabides.com/index.xml"
   :hnuid "WillAbides"
   :bio "A gopher who occasionally writes about Go.")
@@ -371,6 +485,13 @@
   :feed "https://xeiaso.net/blog.rss"
   :hnuid "xena"
   :bio "Creator of Anubis.  Technical educator, conference speaker and Twitch streamer.")
+
+ (:name "Yash Mehrotra"
+  :site "https://yashmehrotra.com/"
+  :blog "https://yashmehrotra.com/posts"
+  :feed "https://yashmehrotra.com/index.xml"
+  :hnuid "yashmehrotra"
+  :bio "Backend and infrastructure engineer.  Author of Hugo Gokarna theme.")
 
  ;; You may copy the following entry to add one for your website.
  ;; Insert your entry at an appropriate place above so that the

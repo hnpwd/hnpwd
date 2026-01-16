@@ -1,0 +1,40 @@
+name: Continuous Deployment of Generated Files
+on:
+  push:
+    branches:
+      - main
+jobs:
+  cd:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - run: sudo apt-get install sbcl
+      - run: sbcl --script gen.lisp
+      - run: git add index.html pwd.opml
+      - run: git config user.name 'Continuous Deployment'
+      - run: git config user.email 'cd@localhost'
+      - run: git commit -m 'Regenerate index.html and pwd.opml'
+      - run: git checkout -b pages
+      - run: git push origin main
+      - run: git push -f origin pages
+      - run: git show
+
+# The continuous deployment works like this now:
+#
+#   1. We merge a user's pull request.
+#   2. This workflow updates index.html and pwd.opml in the 'main' branch.
+#   3. This workflow updates the 'pages' branch to be identical to the 'main' branch.
+#   4. GH Pages is configured to deploy the 'pages' branch to the website.
+#
+# We no longer deploy the website from the 'main' branch because when
+# we did so every merge to main triggered two GH Pages deployment, one
+# for the merge and one more simultaneously for the automated commit
+# that update index.html and pwd.opml.  Eventually both GH Pages
+# deployment overlapped and the second caused the first one to be
+# killed.  This was a bit clumsy.
+#
+# So now we merges land in 'main' and then have this workflow update
+# 'pages' which then triggers the GH Pages deployment.  So all the
+# crucial steps now flow linearly, rather than concurrently.

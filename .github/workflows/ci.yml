@@ -1,4 +1,4 @@
-name: CI
+name: Continuous Integration Checks
 on: pull_request
 jobs:
   ci:
@@ -6,4 +6,5 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: sudo apt-get install sbcl
-      - run: sbcl --script gen.lisp
+      - run: sbcl --script test.lisp
+      - run: sbcl --script gen.lisp --validate-only
