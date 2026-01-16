@@ -41,7 +41,7 @@
   :site "https://antsiferov.me"
   :blog "https://blog.yak.supplies"
   :hnuid "wttr"
-  :bio "An IT sales/project manager turned web developer. Enjoys building useful stuff.")
+  :bio "An IT sales/project manager turned web developer.")
  
  (:name "Alex Tiniuc"
   :site "https://tiniuc.com/"
