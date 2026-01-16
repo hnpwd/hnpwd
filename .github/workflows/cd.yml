@@ -16,10 +16,9 @@ jobs:
       - run: git config user.name 'Continous Deployment'
       - run: git config user.email 'cd@localhost'
       - run: git commit -m 'Regenerate index.html and pwd.opml'
-      - run: git checkout pages
-      - run: git merge main
+      - run: git checkout -b pages
       - run: git push origin main
-      - run: git push origin pages
+      - run: git push -f origin pages
       - run: git show
 
 # The continuous deployment works like this now:
