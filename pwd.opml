@@ -3,10 +3,10 @@
   <head>
     <title>HN Personal Websites</title>
     <dateCreated>Wed, 14 Jan 2026 00:00:00 UTC</dateCreated>
-    <dateModified>Fri, 16 Jan 2026 03:38:06 UTC</dateModified>
+    <dateModified>Fri, 16 Jan 2026 03:43:12 UTC</dateModified>
   </head>
   <body>
-    <!-- 56 entries -->
+    <!-- 57 entries -->
     <outline text="HN Personal Websites" title="HN Personal Websites">
       <outline type="rss" text="Aditya Athalye" title="Aditya Athalye" xmlUrl="https://www.evalapply.org/index.xml" htmlUrl="https://www.evalapply.org/"/>
       <outline type="rss" text="Alan Grow" title="Alan Grow" xmlUrl="https://alangrow.com/blog/atom.xml" htmlUrl="https://alangrow.com/"/>
@@ -40,6 +40,7 @@
       <outline type="rss" text="Joseph Szymborski" title="Joseph Szymborski" xmlUrl="https://jszym.com/index.xml" htmlUrl="https://jszym.com/"/>
       <outline type="rss" text="Joshua Rogers" title="Joshua Rogers" xmlUrl="https://joshua.hu/feed.xml" htmlUrl="https://joshua.hu/"/>
       <outline type="rss" text="Karl Knechtel" title="Karl Knechtel" xmlUrl="https://zahlman.github.io/rss.xml" htmlUrl="https://zahlman.github.io/"/>
+      <outline type="rss" text="Keshav Rao" title="Keshav Rao" xmlUrl="https://keshavrao.com/feed.xml" htmlUrl="https://keshavrao.com/"/>
       <outline type="rss" text="Kevin Scott Dias" title="Kevin Scott Dias" xmlUrl="https://www.kevinsdias.com/feed.xml" htmlUrl="https://www.kevinsdias.com/"/>
       <outline type="rss" text="Kushagra Srivastava" title="Kushagra Srivastava" xmlUrl="https://skushagra.com/index.xml" htmlUrl="https://skushagra.com/"/>
       <outline type="rss" text="Kyle Ross" title="Kyle Ross" xmlUrl="https://ktross.com/rss.xml" htmlUrl="https://ktross.com/"/>
