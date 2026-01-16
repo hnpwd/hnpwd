@@ -23,7 +23,7 @@
   :about "https://tsalolikhin.com/about/"
   :now "https://tsalolikhin.com/now/"
   :hnuid "atsaloli"
-  :bio "IT Operations professional and trainer")
+  :bio "IT Operations professional and trainer.")
 
  (:name "Alex Lance"
   :site "https://alexlance.blog/"
