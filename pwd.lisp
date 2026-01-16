@@ -16,6 +16,15 @@
   :hnuid "sigil"
   :bio "Art-tech software developer and founder.")
 
+ (:name "Aleksey Tsalolikhin"
+  :site "https://tsalolikhin.com/"
+  :blog "https://tsalolikhin.com/posts/"
+  :feed "https://tsalolikhin.com/posts/index.xml"
+  :about "https://tsalolikhin.com/about/"
+  :now "https://tsalolikhin.com/now/"
+  :hnuid "atsaloli"
+  :bio "IT Operations professional and trainer.")
+
  (:name "Alex Lance"
   :site "https://alexlance.blog/"
   :feed "https://alexlance.blog/feed.xml"
@@ -304,10 +313,10 @@
   :hnuid "mike-cardwell"
   :bio "Writes about tech, privacy, security and programming.")
 
-  (:name "Mike Damm"
+ (:name "Mike Damm"
   :site "https://mikedamm.com/"
   :hnuid "mike_d"
-   :bio "Security researcher.  First engineer at OpenDNS.")
+  :bio "Security researcher.  First engineer at OpenDNS.")
 
  (:name "Nicolas Chagnet"
   :site "https://nchagnet.pages.dev/"
