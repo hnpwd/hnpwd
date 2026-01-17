@@ -299,8 +299,8 @@
   :site "https://rkallos.com/"
   :blog "https://rkallos.com/index.html"
   :feed "https://rkallos.com/feeds/all.atom.xml"
-  :about "https://rkallos.com/about"
-  :now "https://rkallos.com/now"
+  :about "https://rkallos.com/about/"
+  :now "https://rkallos.com/now/"
   :hnuid "rkallos"
   :bio "Canadian Elixir developer.  Writes about coding and living.")
 
