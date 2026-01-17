@@ -36,13 +36,19 @@
   :about "https://gigatexal.blog/pages/about/about.html"
   :hnuid "gigatexal"
   :bio "Writes about computers and technology.")
-
+ 
  (:name "Alex Tiniuc"
   :site "https://tiniuc.com/"
   :feed "https://tiniuc.com/atom.xml"
   :about "https://tiniuc.com/about-me/"
   :hnuid "tiniuclx"
   :bio "Embedded software engineer, musician and game developer.")
+
+ (:name "Alexander Antsiferov"
+  :site "https://antsiferov.me/"
+  :blog "https://blog.yak.supplies/"
+  :hnuid "wttr"
+  :bio "An IT sales/project manager turned web developer.")
 
  (:name "Andrew Montalenti"
   :site "https://amontalenti.com/"
