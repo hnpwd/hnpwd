@@ -318,6 +318,14 @@
   :hnuid "keshav55"
   :bio "Loves creating experiences people love.")
 
+ (:name "Kevin Dangoor"
+  :site "https://www.kevindangoor.com/"
+  :blog "https://www.kevindangoor.com/posts/"
+  :feed "https://www.kevindangoor.com/index.xml"
+  :about "https://www.kevindangoor.com/about"
+  :hnuid "dangoor"
+  :bio "Staff Engineer at GitHub.  Founder of CommonJS and TurboGears.  Author.")
+
  (:name "Kevin Scott Dias"
   :site "https://www.kevinsdias.com/"
   :blog "https://www.kevinsdias.com/writing.html"
