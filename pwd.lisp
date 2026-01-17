@@ -372,11 +372,18 @@
   :hnuid "mike_d"
   :bio "Security researcher.  First engineer at OpenDNS.")
 
+ (:name "Mike Kasberg"
+  :site "https://www.mikekasberg.com/"
+  :blog "https://www.mikekasberg.com/blog/"
+  :feed "https://www.mikekasberg.com/feed.xml"
+  :hnuid "mkasberg"
+  :bio "Husband.  Father.  Software engineer.  Ubuntu Linux user.")
+
  (:name "Neil Kakkar"
   :site "https://neilkakkar.com/"
   :blog "https://neilkakkar.com/blog/"
   :feed "https://neilkakkar.com/feed.xml"
-  :about "https://neilkakkar.com/about"
+  :about "https://neilkakkar.com/about/"
   :hnuid "neilkakkar"
   :bio "Software engineer.  Writes about technology, psychology and critical thinking.")
 

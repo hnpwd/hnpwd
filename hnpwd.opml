@@ -3,10 +3,10 @@
   <head>
     <title>HN Personal Websites</title>
     <dateCreated>Wed, 14 Jan 2026 00:00:00 UTC</dateCreated>
-    <dateModified>Sat, 17 Jan 2026 00:55:46 UTC</dateModified>
+    <dateModified>Sat, 17 Jan 2026 01:01:41 UTC</dateModified>
   </head>
   <body>
-    <!-- 66 entries -->
+    <!-- 67 entries -->
     <outline text="HN Personal Websites" title="HN Personal Websites">
       <outline type="rss" text="Aditya Athalye" title="Aditya Athalye" xmlUrl="https://www.evalapply.org/index.xml" htmlUrl="https://www.evalapply.org/"/>
       <outline type="rss" text="Alan Grow" title="Alan Grow" xmlUrl="https://alangrow.com/blog/atom.xml" htmlUrl="https://alangrow.com/"/>
@@ -54,6 +54,7 @@
       <outline type="rss" text="Matt Crampton" title="Matt Crampton" xmlUrl="https://www.mattcrampton.com/feed.xml" htmlUrl="https://www.mattcrampton.com/"/>
       <outline type="rss" text="Matteo" title="Matteo" xmlUrl="https://xnacly.me/index.xml" htmlUrl="https://xnacly.me/"/>
       <outline type="rss" text="Mike Cardwell" title="Mike Cardwell" xmlUrl="https://www.grepular.com/rss" htmlUrl="https://www.grepular.com/"/>
+      <outline type="rss" text="Mike Kasberg" title="Mike Kasberg" xmlUrl="https://www.mikekasberg.com/feed.xml" htmlUrl="https://www.mikekasberg.com/"/>
       <outline type="rss" text="Neil Kakkar" title="Neil Kakkar" xmlUrl="https://neilkakkar.com/feed.xml" htmlUrl="https://neilkakkar.com/"/>
       <outline type="rss" text="Nicolas Chagnet" title="Nicolas Chagnet" xmlUrl="https://nchagnet.pages.dev/rss.xml" htmlUrl="https://nchagnet.pages.dev/"/>
       <outline type="rss" text="Nikhil Anand" title="Nikhil Anand" xmlUrl="https://nikhil.io/feed.xml" htmlUrl="https://nikhil.io/"/>
