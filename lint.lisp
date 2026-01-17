@@ -1,8 +1,7 @@
 ;;;; HNPWD Linter
 ;;;; ============
 
-;;; Validations
-;;; -----------
+(load "util.lisp")
 
 (defun validate-name-order (items)
   "Check that entries are arranged in the order of names."
@@ -133,7 +132,7 @@
 
 (defun main ()
   "Validate directory data."
-  (validate (read-entries)))
+  (validate (read-entries "pwd.lisp")))
 
 (when *main-mode*
   (main))

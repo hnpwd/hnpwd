@@ -1,10 +1,13 @@
 # Essential Targets Relied Upon by CI/CD
 # --------------------------------------
 
-test-all: test gen tidy
+test-all: lint test gen tidy
 
 test:
 	sbcl --noinform --eval "(defvar *quit* t)" --load test.lisp --quit
+
+lint:
+	sbcl --noinform --load lint.lisp --quit
 
 gen:
 	sbcl --noinform --load gen.lisp --quit
