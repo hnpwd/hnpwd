@@ -291,6 +291,13 @@
   :hnuid "jszymborski"
   :bio "Computational biology researcher.  Writes about technology and society.")
 
+ (:name "Josh Beckman"
+  :site "https://www.joshbeckman.org/"
+  :feed "https://www.joshbeckman.org/feed.xml"
+  :about "https://www.joshbeckman.org/about"
+  :hnuid "bckmn"
+  :bio "A startup-seasoned Big Tech senior staff crafter software engineer.")
+
  (:name "Joshua Rogers"
   :site "https://joshua.hu/"
   :feed "https://joshua.hu/feed.xml"
@@ -358,6 +365,14 @@
   :feed "https://www.mattcrampton.com/feed.xml"
   :hnuid "revicon"
   :bio "Writes about software development, startups, camping and beards.")
+
+ (:name "Matt Sephton"
+  :site "https://gingerbeardman.com/"
+  :blog "https://blog.gingerbeardman.com/"
+  :feed "https://blog.gingerbeardman.com/feed.xml"
+  :about "https://blog.gingerbeardman.com/about/"
+  :hnuid "msephton"
+  :bio "Game and App developer | GOTY 2023 | ex-Apple.")
 
  (:name "Matteo"
   :site "https://xnacly.me/"
@@ -448,6 +463,14 @@
   :feed "https://contraption.co/rss/"
   :hnuid "philip1209"
   :bio "Writes about crafting digital tools.")
+
+ (:name "Rasik Jain"
+  :site "https://www.rasikjain.com/"
+  :blog "https://www.rasikjain.com/posts/"
+  :feed "https://www.rasikjain.com/index.xml"
+  :about "https://www.rasikjain.com/about/"
+  :hnuid "rasikjain"
+  :bio "Software engineer specializing in AI/ML, building secure, scalable apps.")
 
  (:name "Rhys Johns"
   :site "https://spikepuppet.io/"
@@ -557,7 +580,6 @@
   :site "https://vijethph.github.io/"
   :blog "https://vijethph.github.io/ruminations/"
   :feed "https://vijethph.github.io/ruminations/rss.xml"
-  :about "https://vijethph.github.io/ruminations/about/"
   :hnuid "vijethph"
   :bio "Student at University College Dublin; former senior software engineer.")
 
