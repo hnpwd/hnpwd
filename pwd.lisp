@@ -298,9 +298,8 @@
  (:name "Robert Ismo"
   :site "https://robertismo.com/"
   :feed "https://robertismo.com/index.xml"
-  :about "https://robertismo.com/opinions/"
   :hnuid "iamrobertismo"
-  :bio "I write about Free Software, non-profit stuff, and self hosting.")
+  :bio "I write about Free Software, non-profit stuff and self hosting.")
 
  (:name "Sam Broner"
   :site "https://sambroner.com/"
