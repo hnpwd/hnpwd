@@ -3,10 +3,10 @@
   <head>
     <title>HN Personal Websites</title>
     <dateCreated>Wed, 14 Jan 2026 00:00:00 UTC</dateCreated>
-    <dateModified>Sat, 17 Jan 2026 01:23:57 UTC</dateModified>
+    <dateModified>Sat, 17 Jan 2026 02:41:49 UTC</dateModified>
   </head>
   <body>
-    <!-- 69 entries -->
+    <!-- 70 entries -->
     <outline text="HN Personal Websites" title="HN Personal Websites">
       <outline type="rss" text="Abigail Pain" title="Abigail Pain" xmlUrl="https://www.akpain.net/blog/feed.atom" htmlUrl="https://www.akpain.net/"/>
       <outline type="rss" text="Aditya Athalye" title="Aditya Athalye" xmlUrl="https://www.evalapply.org/index.xml" htmlUrl="https://www.evalapply.org/"/>
@@ -60,6 +60,7 @@
       <outline type="rss" text="Nicolas Chagnet" title="Nicolas Chagnet" xmlUrl="https://nchagnet.pages.dev/rss.xml" htmlUrl="https://nchagnet.pages.dev/"/>
       <outline type="rss" text="Nikhil Anand" title="Nikhil Anand" xmlUrl="https://nikhil.io/feed.xml" htmlUrl="https://nikhil.io/"/>
       <outline type="rss" text="Peter Bengtsson" title="Peter Bengtsson" xmlUrl="https://www.peterbe.com/rss.xml" htmlUrl="https://www.peterbe.com/"/>
+      <outline type="rss" text="Peter Demin" title="Peter Demin" xmlUrl="https://peter.demin.dev/life.xml" htmlUrl="https://peter.demin.dev/"/>
       <outline type="rss" text="Peter Kankowski" title="Peter Kankowski" xmlUrl="https://www.strchr.com/?feed=/" htmlUrl="https://www.strchr.com/"/>
       <outline type="rss" text="Phil Booth" title="Phil Booth" xmlUrl="https://philbooth.me/blog/atom.xml" htmlUrl="https://philbooth.me/"/>
       <outline type="rss" text="Philip I. Thomas" title="Philip I. Thomas" xmlUrl="https://contraption.co/rss/" htmlUrl="https://philipithomas.com/"/>
