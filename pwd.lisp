@@ -782,6 +782,11 @@
   :hnuid "utk09"
   :bio "Front-end developer and avid reader of murder mystery novels.")
 
+ (:name "Vermaden"
+  :site "http://strony.toya.net.pl/~vermaden/links.htm"
+  :hnuid "vermaden"
+  :bio "Another ${RANDOM} sysadmin sharing his experiences of work at IT industry.")
+
  (:name "Vijeth P H"
   :site "https://vijethph.github.io/"
   :blog "https://vijethph.github.io/ruminations/"
