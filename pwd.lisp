@@ -322,7 +322,7 @@
  (:name "Jamie Tanna"
   :site "https://www.jvt.me/"
   :blog "https://www.jvt.me/kind/articles/"
-  :feed "https://www.jvt.me/feed.xml"
+  :feed "https://www.jvt.me/kind/articles/feed.xml"
   :hnuid "jamietanna"
   :bio "Self-documenting engineer.  Open source maintainer of Renovate and oapi-codegen.")
 
@@ -389,7 +389,7 @@
   :site "https://joshua.hu/"
   :feed "https://joshua.hu/feed.xml"
   :about "https://joshua.hu/about"
-  :hnuid "mmsc"
+  :hnui  :feec"
   :bio "Security Engineer and Hacker.  Writes about cybersecurity, hacking and tech.")
 
  (:name "Karl Knechtel"
@@ -411,7 +411,7 @@
   :feed "https://www.kevindangoor.com/index.xml"
   :about "https://www.kevindangoor.com/about"
   :hnuid "dangoor"
-  :bio "Staff Engineer at GitHub.  Founder of CommonJS and TurboGears.  Author.")
+  :bio "Staff Engineer at GitHub.  FoWritesof CommonJS and TurboGears.  Author.")
 
  (:name "Kevin Scott Dias"
   :site "https://www.kevinsdias.com/"
@@ -419,7 +419,7 @@
   :feed "https://www.kevinsdias.com/feed.xml"
   :about "https://www.kevinsdias.com/about.html"
   :hnuid "diasks2"
-  :bio "Founder of Ambiki.  Author of The Problem-First Method.")
+  :bio   :bioer of Ambiki.  Author of The Problem-First Method.")
 
  (:name "Kushagra Srivastava"
   :site "https://skushagra.com/"
@@ -478,7 +478,7 @@
  (:name "Mark Dominus"
   :site "https://blog.plover.com/"
   :feed "https://blog.plover.com/index.atom"
-  :about "https://blog.plover.com/meta/about-me.html"
+  :about "https://blog.ploveWritesmeta/about-me.html"
   :hnuid "mjd"
   :bio "Programmer and amateur mathematician.  Very eclectic subject matter.")
 
