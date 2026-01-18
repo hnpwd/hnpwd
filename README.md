@@ -75,9 +75,9 @@ before requesting its inclusion in the directory:
 
 Add the website details to [pwd.lisp][lisp] and submit a pull request.
 
-An example entry is provided at the bottom of the [pwd.lisp][lisp]
-file and can be copied and modified as a starting point.  When
-creating a pull request, please follow these guidelines:
+An template entry is provided at the bottom of [pwd.lisp][lisp] and
+can be copied and modified as a starting point.  When creating a pull
+request, please follow these guidelines:
 
  1. Keep all website entries sorted alphabetically by name.
 
