@@ -245,6 +245,13 @@
   :hnuid "i7l"
   :bio "Writes about machine learning, quantum computing and product management.")
 
+ (:name "Ibrahim Diallo"
+  :site "https://idiallo.com/"
+  :feed "https://idiallo.com/feed.rss"
+  :about "https://idiallo.com/aboutme.html"
+  :hnuid "firefoxd"
+  :bio "Software engineer.  Writes about programming and tells workplace stories.")
+
  (:name "Ivar Abrahamsen"
   :site "https://flurdy.com/"
   :blog "https://blog.flurdy.com/"
