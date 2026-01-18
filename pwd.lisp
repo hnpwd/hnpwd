@@ -270,7 +270,7 @@
 
   (:name "Edmond Major III"
   :site "http://edmond.ma/jor/"
-  :bio "Cybersec researcher that is obsessed with threat intelligence & scraping data.")
+  :bio "Cybersec researcher that is obsessed with threat intelligence and scraping data.")
 
  (:name "Emma Goto"
   :site "https://www.emgoto.com/"
