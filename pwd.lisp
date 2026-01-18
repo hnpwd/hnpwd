@@ -81,12 +81,12 @@
   :bio "Full-stack AI engineer.  Turns fuzzy ideas into live products quickly.")
 
  (:name "Amit Kumar"
- :site "https://nextfive.xyz/"
- :feed "https://nextfive.xyz/feed.xml"
- :about "https://nextfive.xyz/about/"
- :now "https://nextfive.xyz/now/"
- :hnuid "heyamitkmr"
- :bio "Building software, taking pictures and writing while exploring what's next.")
+  :site "https://nextfive.xyz/"
+  :feed "https://nextfive.xyz/feed.xml"
+  :about "https://nextfive.xyz/about/"
+  :now "https://nextfive.xyz/now/"
+  :hnuid "heyamitkmr"
+  :bio "Building software, taking pictures and writing while exploring what's next.")
 
  (:name "Andre Franca"
   :site "https://afranca.com.br/"
@@ -867,7 +867,7 @@
   :hnuid "yashmehrotra"
   :bio "Backend and infrastructure engineer.  Author of Hugo Gokarna theme.")
 
-(:name "Zac Bentley"
+ (:name "Zac Bentley"
   :site "https://blog.zacbentley.com/"
   :about "https://blog.zacbentley.com/about/"
   :feed "https://blog.zacbentley.com/index.xml"
