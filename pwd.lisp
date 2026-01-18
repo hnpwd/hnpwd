@@ -545,6 +545,13 @@
   :hnuid "sambroner"
   :bio "Writes about blockchains, distributed systems, dev tools, CRDTs, etc.")
 
+ (:name "Sam Rose"
+  :site "https://samwho.dev/"
+  :blog "https://samwho.dev/blog"
+  :feed "https://samwho.dev/rss.xml"
+  :hnuid "samwho"
+  :bio "Writes visual, interactive essays about software.")
+
  (:name "Sean Goedecke"
   :site "https://www.seangoedecke.com/"
   :feed "https://www.seangoedecke.com/rss.xml"
