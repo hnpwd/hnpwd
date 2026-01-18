@@ -220,6 +220,11 @@
   :hnuid "damianwalsh"
   :bio "Designer based in Manchester, UK.")
 
+ (:name "David Francoeur"
+  :site "https://davidfrancoeur.com/"
+  :hnuid "daddykotex"
+  :bio "Writes about various software development problems.")
+
  (:name "Dennis Silin"
   :site "https://marscalendar.space/"
   :about "https://marscalendar.space/about.html"

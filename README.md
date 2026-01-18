@@ -83,12 +83,28 @@ before requesting its inclusion in the directory:
     not included immediately.  However, they are not rejected
     outright.  Instead, we wait until more content is added before
     considering them for inclusion in the directory.  As a general
-    guideline, we expect around 10 articles to be present before a
-    website is eligible.  Exceptions may be made in some cases, for
-    example when a site has only a few posts but one or more of them
-    have been very well received on HN.  This requirement helps ensure
-    that visitors arriving from the directory will find enough
-    interesting content to explore.
+    guideline, we expect 5 or more substantive articles or other
+    original works (excluding usual meta pages such as about, contact,
+    etc.).  Exceptions may be made in some cases, for example when a
+    site has only a few posts but one or more of them have been very
+    well received on HN.  This requirement helps ensure that visitors.
+    arriving from the directory will find enough interesting content
+    to explore.
+
+ 4. **Human Authorship**
+
+    Most of the content on the website must be clearly authored by the
+    individual claiming ownership of the website.  Websites containing
+    plagiarised material are immediately disqualified.  Websites
+    consisting primarily of automatically generated content, including
+    syndicated technology feeds, AI-generated blogspam or similar
+    material, are not eligible for inclusion in this directory.
+    Content that has been reviewed or edited by AI tools is acceptable
+    but content that is purely AI-generated is not.  This requirement
+    exists to ensure a genuine human presence and authorship behind
+    every website included in the directory.  This is consistent with
+    the spirit of HN, which does not permit automatically generated
+    comments and is intended as a forum for humans.
 
 
 ### Add via PR
