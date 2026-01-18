@@ -51,23 +51,23 @@ before requesting its inclusion in the directory:
 
  2.  **Author-Controlled Website**
 
-    The website must be a personal website where the author has full
-    control over its design, content and presentation.  This includes
-    control over layout, styling and monetisation.  Websites hosted on
-    platforms that inject advertisements, branding or other third
-    party content do not meet this criterion.  Similarly, websites on
-    platforms that limit the author's control over design or
-    presentation in any way do not qualify.
+     The website must be a personal website where the author has full
+     control over its design, content and presentation.  This includes
+     control over layout, styling and monetisation.  Websites hosted
+     on platforms that inject advertisements, branding or other third
+     party content do not meet this criterion.  Similarly, websites on
+     platforms that limit the author's control over design or
+     presentation in any way do not qualify.
 
-    Websites hosted on personal domains clearly qualify.  Websites
-    hosted on services such as Neocities, GitHub Pages or Codeberg
-    Pages also qualify, as these platforms allow full control over the
-    site's design.  However, blogs hosted on publishing platforms such
-    as Medium, Substack, Blogspot, the free WordPress.com service,
-    etc. do not qualify.
+     Websites hosted on personal domains clearly qualify.  Websites
+     hosted on services such as Neocities, GitHub Pages or Codeberg
+     Pages also qualify, as these platforms allow full control over
+     the site's design.  However, blogs hosted on publishing platforms
+     such as Medium, Substack, Blogspot, the free WordPress.com
+     service, etc. do not qualify.
 
-    Note: This requirement is about control, not quality.  Many
-    excellent blogs fall outside the scope of this directory.
+     Note: This requirement is about control, not quality.  Many
+     excellent blogs fall outside the scope of this directory.
 
  3. **Substantive Personal Content**
 
