@@ -268,6 +268,10 @@
   :hnuid "pixel87"
   :bio "Comp Sci student, making things.")
 
+  (:name "Edmond Major III"
+  :site "http://edmond.ma/jor/"
+  :bio "Cybersecurity researcher who is obsessed with threat intelligence and scraping data.")
+
  (:name "Emma Goto"
   :site "https://www.emgoto.com/"
   :feed "https://www.emgoto.com/rss.xml"
