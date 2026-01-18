@@ -117,7 +117,7 @@
               (full-domain (parse-domain url)))
           (unless (or (string= short-domain full-domain)
                       (search (fstr ".~a" short-domain) full-domain))
-            (push (fstr "~a <~a>: URL must belong to domain '~a'"
+            (push (fstr "~a <~a>: URL must belong to site domain (~a)"
                         (getf item :name) url short-domain) errors)))))
     (reverse errors)))
 
