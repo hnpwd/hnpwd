@@ -304,6 +304,13 @@
   :hnuid "gavinhoward"
   :bio "Recovering C programmer with many interests.")
 
+ (:name "Hung P. Do"
+  :site "https://hdocmsu.github.io/"
+  :blog "https://hdocmsu.github.io/blog/"
+  :feed "https://hdocmsu.github.io/feed.xml"
+  :hnuid "hdoMRIphysics"
+  :bio "Creator of The Art of MRI Physics (AoMP).  Writes about mathematics, physics and Python programming related to Magnetic Resonance Imaging (MRI).")
+ 
  (:name "Ian Reppel"
   :site "https://ianreppel.org/"
   :feed "https://ianreppel.org/feed.xml"
