@@ -559,6 +559,12 @@
   :hnuid "mkasberg"
   :bio "Husband.  Father.  Software engineer.  Ubuntu Linux user.")
 
+ (:name "Murat Koptur"
+  :site "https://muratkoptur.com/"
+  :blog "https://muratkoptur.com/publications"
+  :hnuid "mrtkp9993"
+  :bio "Data scientist and software engineer.")
+ 
  (:name "Nabraj"
   :site "https://nabraj.com/"
   :blog "https://nabraj.com/blog"
