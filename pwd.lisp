@@ -15,7 +15,7 @@
   :blog "https://arkoinad.com/archive.html"
   :feed "https://arkoinad.com/rss.xml"
   :hnuid "arkoinad"
-  :bio "Yet another Software Engineer, Yet another blog")
+  :bio "Yet another blogger, Yet another blog.")
 
  (:name "Aditya Athalye"
   :site "https://www.evalapply.org/"
