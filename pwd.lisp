@@ -8,7 +8,7 @@
   :blog "https://arkoinad.com/archive.html"
   :feed "https://arkoinad.com/rss.xml"
   :hnuid "arkoinad"
-  :bio "Software engineer, photographer, blogger and writer")
+  :bio "Software engineer, photographer, blogger and writer.")
 
  (:name "Abigail Pain"
   :site "https://www.akpain.net/"
