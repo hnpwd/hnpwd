@@ -315,7 +315,6 @@
   :site "https://emschwartz.me/"
   :blog "https://emschwartz.me/blog/"
   :feed "https://emschwartz.me/feed/"
-  :about "https://emschwartz.me/"
   :hnuid "emschwartz"
   :bio "Rust dev building and writing about building Scour, a personalized content feed.")
  
