@@ -131,6 +131,14 @@
   :hnuid "arulpugazh"
   :bio "Canadian ML engineer and founder of TensorHub Solutions Inc.")
 
+ (:name "Asuka Wang"
+  :site "https://asukawang.com/"
+  :blog "https://asukawang.com/blog/"
+  :feed "https://asukawang.com/blog/feed.xml"
+  :about "https://asukawang.com/about/"
+  :hnuid "asukachikaru"
+  :bio "Software engineer and aspiring indie game developer.")
+
  (:name "Barada"
   :site "https://mercurialsolo.github.io/"
   :blog "https://mercurialsolo.github.io/posts/"
