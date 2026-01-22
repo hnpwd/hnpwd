@@ -19,6 +19,7 @@ function shuffle (items) {
 function shuffleCards () {
   let cards = Array.from(document.querySelectorAll('section'))
   document.querySelector('main').replaceChildren(...shuffle(cards))
+  window.setTimeout(shuffleCards, 60000)
 }
 
 window.addEventListener('load', shuffleCards)
