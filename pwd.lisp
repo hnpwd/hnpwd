@@ -372,6 +372,12 @@
   :hnuid "firefoxd"
   :bio "Software engineer.  Writes about programming and tells workplace stories.")
 
+ (:name "Immibis"
+  :site "https://www.immibis.com/blog/"
+  :about "https://www.immibis.com/aboutme/"
+  :hnuid "immibis"
+  :bio "Interested in the lower layers of computing, reverse engineering, and networks.")
+
  (:name "Ivar Abrahamsen"
   :site "https://flurdy.com/"
   :blog "https://blog.flurdy.com/"
