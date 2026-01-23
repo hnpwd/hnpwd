@@ -243,6 +243,12 @@
   :hnuid "damianwalsh"
   :bio "Designer based in Manchester, UK.")
 
+ (:name "Daniel Murrell"
+  :site "https://dsmurrell.com/"
+  :blog "https://dsmurrell.com/articles/"
+  :hnuid "dsmurrell"
+  :bio "Builds projects with Cursor and writes about it.")
+
  (:name "David Francoeur"
   :site "https://davidfrancoeur.com/"
   :hnuid "daddykotex"
