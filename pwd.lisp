@@ -223,6 +223,12 @@
   :hnuid "ciju"
   :bio "Building mental models around programming, finance and other topics.")
 
+ (:name "Clem"
+  :site "https://smnx.sh/"
+  :blog "https://smnx.sh/garden/"
+  :hnuid "monax"
+  :bio "Loves building things like operating systems, compilers, tools and web engines.")
+
  (:name "Cookie Engineer"
   :site "https://cookie.engineer/"
   :blog "https://cookie.engineer/weblog/"
