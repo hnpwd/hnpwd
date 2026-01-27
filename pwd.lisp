@@ -633,7 +633,7 @@
   :blog "https://akr.am/blog/"
   :feed "https://akr.am/blog/feed.xml"
   :hnuid "thefilmore"
-  :bio "Full stack engineer. Interested in IoT and Financial Industries.")
+  :bio "Full stack engineer.  Interested in IoT and Financial Industries.")
 
  (:name "Mike Cardwell"
   :site "https://www.grepular.com/"
