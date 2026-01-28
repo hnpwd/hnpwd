@@ -925,6 +925,12 @@
   :hnuid "birdsongs"
   :bio "Nostalgic embedded engineer, writes about photography and non-technical topics.")
 
+  (:name "Teotime Pacreau"
+  :site "https://www.teotimepacreau.fr/"
+  :blog "https://www.teotimepacreau.fr/blog/"
+  :hnuid "teotimepacreau"
+  :bio "Consultant in informatic projet management, writes about web development, design, consulting work and using data to serve your needs.")
+ 
  (:name "Theodore Morley"
   :site "https://tjmorley.com/"
   :blog "https://tjmorley.com/articles.html"
