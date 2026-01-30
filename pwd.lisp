@@ -576,7 +576,7 @@
   :about "https://marcolabarile.me/about/"
   :now "https://marcolabarile.me/now/"
   :hnuid "labarilem"
-  :bio "Senior SWE who writes about side projects and fun experiments")
+  :bio "Senior SWE who writes about side projects and fun experiments.")
 
  (:name "Marijan Smetko"
   :site "https://terra-incognita.blog/"
