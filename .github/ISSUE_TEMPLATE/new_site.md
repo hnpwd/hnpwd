@@ -21,7 +21,7 @@ title: Add <website name>'
 
 MAKE SURE:
 
-- The website fits this criteria: https://github.com/hnpwd/hnpwd.github.io#criteria
-- To follow this format: https://github.com/hnpwd/hnpwd.github.io#add-via-pr
+- The website fits this criteria: https://github.com/hnpwd/hnpwd#criteria
+- To follow this format: https://github.com/hnpwd/hnpwd#add-via-pr
 
 -->
