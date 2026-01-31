@@ -240,20 +240,19 @@ FAQ
  3. I posted my website to your [megathread on HN][hnt].  Why is it
     not added to the directory yet?
 
-    We received over 2000 website suggestions on that thread. Each
+    We received over 2000 website suggestions on that thread.  Each
     submission requires a brief visual review to ensure it is a good
     fit for this directory, and this process cannot be fully
     automated.  As a result, it is likely to take several months to
     work through all the suggestions we received.
 
-    To track our progress, you can follow our backlog here:
-    [repo][backlog-repo], [table][backlog-table].
+    To track our progress, see our [backlog tables][backlog-tables].
 
  4. Can I contribute my time and help you make progress faster?
 
-    Yes, certainly. Currently, we are only two people working through
-    the backlog. If you would like to help, please join us in our IRC
-    channel [#hnpwd][IRC]. You may need to stay connected for a while
+    Yes, certainly.  Currently, we are only two people working through
+    the backlog.  If you would like to help, please join us in our IRC
+    channel [#hnpwd][IRC].  You may need to stay connected for a while
     after asking, as not all volunteers are present at all hours of
     the day.
 
@@ -268,8 +267,7 @@ FAQ
 
 [outcoldman]: https://github.com/outcoldman/hackernews-personal-blogs
 [hnt]: https://news.ycombinator.com/item?id=46618714
-[backlog-repo]: https://github.com/hnpwd/backlog
-[backlog-table]: https://github.com/hnpwd/backlog/blob/main/backlog.md
+[backlog-tables]: https://github.com/hnpwd/backlog#backlog-tables
 
 
 Licence
