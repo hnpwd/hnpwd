@@ -697,6 +697,13 @@
   :hnuid "coffeecoders"
   :bio "Full-stack engineer, now focused on breadboards and building robots.")
 
+ (:name "Nate Meyvis"
+  :site "https://www.natemeyvis.com/"
+  :blog "https://www.natemeyvis.com/blog/"
+  :feed "https://www.natemeyvis.com/feed/"
+  :hnuid "Theaetetus"
+  :bio "Itinerant software engineer.  Likes to raise children, read and memorize things.")
+
  (:name "Neil Kakkar"
   :site "https://neilkakkar.com/"
   :blog "https://neilkakkar.com/blog/"
