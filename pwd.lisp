@@ -702,7 +702,7 @@
   :blog "https://www.natemeyvis.com/blog/"
   :feed "https://www.natemeyvis.com/feed/"
   :hnuid "Theaetetus"
-  :bio "An itinerant software engineer who likes to raise children, read and memorize things.")
+  :bio "Itinerant software engineer.  Likes to raise children, read and memorize things.")
 
  (:name "Neil Kakkar"
   :site "https://neilkakkar.com/"
