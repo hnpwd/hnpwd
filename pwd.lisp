@@ -122,6 +122,13 @@
   :hnuid "xorvoid"
   :bio "Writes about low-level programming and mathematics.")
 
+ (:name "Antonin Carette"
+  :site "https://carette.xyz/"
+  :blog "https://carette.xyz/posts/"
+  :feed "https://carette.xyz/index.xml"
+  :about "https://carette.xyz/blame/"
+  :bio "Software Engineer.  Focused on GPU, ML, Photography and Cinematography.")
+
  (:name "Antonio Sarro"
   :site "https://antoniosarro.dev/"
   :blog "https://antoniosarro.dev/blogs/"
