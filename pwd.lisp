@@ -747,6 +747,12 @@
   :hnuid "afreeorange"
   :bio "Former fullstack engineer.  Biomedical informatics grad student in NYC.")
 
+ (:name "Nikita Prokopov"
+  :site "https://tonsky.me/"
+  :feed "https://tonsky.me/atom.xml"
+  :about "https://tonsky.me/about/"
+  :bio "Software Engineer.  Consults on Clojure/Script with strong UI/UX background.")
+
  (:name "Niklas Gadermann"
   :site "https://nik.digital/"
   :blog "https://nik.digital/posts"
