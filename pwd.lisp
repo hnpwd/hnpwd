@@ -697,8 +697,8 @@
   :hnuid "mshockwave"
   :bio "Compiler engineer.  LLVM contributor.")
 
-  (:name "Mitanshu Sukhwani"
-  :blog "https://mitanshu7.github.io/"
+ (:name "Mitanshu Sukhwani"
+  :site "https://mitanshu7.github.io/"
   :hnuid "Quizzical4230"
   :bio "Developer.  Coffee nerd.")
 
@@ -904,7 +904,7 @@
 
  (:name "Salih Muhammed"
   :site "https://lr0.org/"
-  :blog "https://lr0.org/blog"
+  :blog "https://lr0.org/blog/"
   :feed "https://lr0.org/blog/index.xml"
   :hnuid "lr0"
   :bio "Writes about programming, living and philosophy matters.")
