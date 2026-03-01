@@ -1102,6 +1102,14 @@
   :hnuid "yashmehrotra"
   :bio "Backend and infrastructure engineer.  Author of Hugo Gokarna theme.")
 
+ (:name "Yobibyte"
+  :site "https://yobibyte.github.io/"
+  :feed "https://yobibyte.github.io/feed.xml"
+  :about "https://yobibyte.github.io/cv"
+  :now "https://yobibyte.github.io/whatsup"
+  :hnuid "yobibyte"
+  :bio "Machine learning researcher living in the terminal.")
+
  (:name "Zac Bentley"
   :site "https://blog.zacbentley.com/"
   :about "https://blog.zacbentley.com/about/"
