@@ -49,6 +49,12 @@
   :hnuid "atsaloli"
   :bio "IT Operations professional and trainer.")
 
+ (:name "Alex Guglielmone Nemi"
+  :site "https://alexhans.github.io/"
+  :feed "https://alexhans.github.io/index.xml"
+  :about "https://alexhans.github.io/about.html"
+  :bio "Writes about software systems, AI evals and cross-functional design.")
+
  (:name "Alex Harri"
   :site "https://alexharri.com/"
   :blog "https://alexharri.com/blog"
