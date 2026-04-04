@@ -467,6 +467,13 @@
   :hnuid "jgc"
   :bio "Original writer of POPFile.  Member of the board of directors at Cloudflare.")
 
+  (:name "John Jarvis"
+  :site "https://jarv.org/"
+  :blog "https://jarv.org/posts/"
+  :feed "https://jarv.org/index.xml"
+  :hnuid "jarv"
+  :bio "Engineering Manager.  Writes about SRE, engineering and technology.")
+ 
  (:name "John Lampard"
   :site "https://disassociated.com/"
   :feed "https://disassociated.com/feed/"
