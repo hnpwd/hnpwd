@@ -391,6 +391,14 @@
   :hnuid "gavinhoward"
   :bio "Recovering C programmer with many interests.")
 
+ (:name "Heitor de Bittencourt"
+  :site "https://heitorpb.github.io/"
+  :blog "https://heitorpb.github.io/bla/"
+  :feed "https://heitorpb.github.io/atom.xml"
+  :about "https://heitorpb.github.io/me/"
+  :hnuid "hpb42"
+  :bio "Physicist turned software engineer.  Writes about code, Linux and servers.")
+
  (:name "Hung P. Do"
   :site "https://hdocmsu.github.io/"
   :blog "https://hdocmsu.github.io/blog/"
