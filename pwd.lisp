@@ -676,6 +676,12 @@
   :hnuid "ciferkey"
   :bio "Writes about projects events and ideas, sharing lessons learnt with others.")
 
+ (:name "Matthias Klose"
+  :site "https://tilde.town/~kls0e/"
+  :feed "https://tilde.town/~kls0e/index.xml"
+  :hnuid "kls0e"
+  :bio "Writes about digital audio, OpenWrt, freifunk and analog photography.")
+
  (:name "Michael Salim"
   :site "https://michaelsalim.co.uk/"
   :blog "https://michaelsalim.co.uk/blog/"
