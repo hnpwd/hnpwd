@@ -977,6 +977,13 @@
   :hnuid "simonw"
   :bio "Creator of Datasette and co-creator of Django.")
 
+ (:name "Stanko Tadić"
+  :site "https://muffinman.io/"
+  :feed "https://muffinman.io/atom.xml"
+  :about "https://muffinman.io/about/"
+  :hnuid "stanko"
+  :bio "A programmer who makes tools, generative art, games and interactive blog posts.")
+
  (:name "Stefan Judis"
   :site "https://www.stefanjudis.com/"
   :blog "https://www.stefanjudis.com/blog/"
