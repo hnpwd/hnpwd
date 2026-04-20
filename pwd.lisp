@@ -722,6 +722,13 @@
   :hnuid "thefilmore"
   :bio "Full stack engineer interested in IoT and financial industries.")
 
+ (:name "Morten Canth Hels"
+  :site "https://morten.hels.dk/"
+  :about "https://morten.hels.dk/about.html"
+  :feed "https://morten.hels.dk/feed.xml"
+  :hnuid "mchels"
+  :bio "Writes about software.  Sometimes economics, music and from a Danish angle.")
+
  (:name "Nabraj"
   :site "https://nabraj.com/"
   :blog "https://nabraj.com/blog"
@@ -1129,13 +1136,6 @@
   :feed "https://blog.zacbentley.com/index.xml"
   :hnuid "zbentley"
   :bio "Software engineer and architect.  Writes about a variety of topics.")
-
- (:name "Morten Canth Hels"
-  :site "https://morten.hels.dk/"
-  :about "https://morten.hels.dk/about.html"
-  :feed "https://morten.hels.dk/feed.xml"
-  :hnuid "mchels"
-  :bio "Writes about software.  Sometimes economics, music and from a Danish angle.")
 
  ;; You may copy the following entry to add one for your website.
  ;; Insert your entry at an appropriate place above so that the
