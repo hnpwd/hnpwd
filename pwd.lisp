@@ -1135,7 +1135,7 @@
   :about "https://morten.hels.dk/about.html"
   :feed "https://morten.hels.dk/feed.xml"
   :hnuid "mchels"
-  :bio "Writes about software. Sometimes economics, music and from a Danish angle.")
+  :bio "Writes about software.  Sometimes economics, music and from a Danish angle.")
 
  ;; You may copy the following entry to add one for your website.
  ;; Insert your entry at an appropriate place above so that the
