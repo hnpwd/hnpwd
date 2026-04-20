@@ -722,6 +722,13 @@
   :hnuid "thefilmore"
   :bio "Full stack engineer interested in IoT and financial industries.")
 
+ (:name "Morten Canth Hels"
+  :site "https://morten.hels.dk/"
+  :about "https://morten.hels.dk/about.html"
+  :feed "https://morten.hels.dk/feed.xml"
+  :hnuid "mchels"
+  :bio "Writes about software.  Sometimes economics, music and from a Danish angle.")
+
  (:name "Nabraj"
   :site "https://nabraj.com/"
   :blog "https://nabraj.com/blog"
