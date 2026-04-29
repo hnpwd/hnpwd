@@ -800,6 +800,14 @@
   :hnuid "obahareth"
   :bio "CTO.  Writes about engineering, leadership and personal experiences.")
 
+ (:name "Oz Gultekin"
+  :site "https://ozgur.ca/"
+  :blog "https://ozgur.ca/notes"
+  :feed "https://ozgur.ca/rss.xml"
+  :about "https://ozgur.ca/about"
+  :now "https://ozgur.ca/now"
+  :bio "Product Experience Designer in Montreal.  Keeps a signal space for a noisy mind.")
+
  (:name "Patrick Hough"
   :site "https://huffstler.github.io/"
   :blog "https://huffstler.github.io/blog/"
