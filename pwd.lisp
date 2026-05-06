@@ -526,6 +526,14 @@
   :hnuid "mmsc"
   :bio "Security Engineer and Hacker.  Writes about cybersecurity, hacking and tech.")
 
+ (:name "Julio Merino"
+  :site "https://jmmv.dev/"
+  :blog "https://jmmv.dev/blog.html"
+  :feed "https://jmmv.dev/feed.xml"
+  :about "https://jmmv.dev/about.html"
+  :hnuid "jmmv"
+  :bio "Software Engineer.  Writes about Linux, FreeBSD, Rust, Bazel and EndBASIC.")
+
  (:name "Karl Knechtel"
   :site "https://zahlman.github.io/"
   :feed "https://zahlman.github.io/rss.xml"
