@@ -1096,6 +1096,13 @@
   :hnuid "WillAbides"
   :bio "A gopher who occasionally writes about Go.")
 
+(:name "William Edmisten"
+  :site "https://wcedmisten.fyi/"
+  :feed "https://wcedmisten.fyi/feed.xml"
+  :about "https://wcedmisten.fyi/about/"
+  :hnuid "wcedmisten"
+  :bio "Full Stack Software Engineer.  Writes about data, web dev and OpenStreetMap.")
+
  (:name "Xe Iaso"
   :site "https://xeiaso.net/"
   :blog "https://xeiaso.net/blog/"
