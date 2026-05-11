@@ -202,6 +202,13 @@
   :hnuid "Brajeshwar"
   :bio "Helping build a beautiful world for my daughters and their friends.")
 
+ (:name " Brian Schrader"
+  :site "https://brianschrader.com/"
+  :feed "https://brianschrader.com/feed.xml"
+  :about "https://brianschrader.com/about/"
+  :hnuid "biteofanapple"
+  :bio "Musings on history, science, math, tech, philosophy and personal stuff.")
+
  (:name "Bruno Croci"
   :site "https://crocidb.com/"
   :feed "https://crocidb.com/index.xml"
