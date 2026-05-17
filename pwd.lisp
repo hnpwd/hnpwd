@@ -243,6 +243,12 @@
   :hnuid "chrismorgan"
   :bio "Software developer, dealing mostly with web things.")
 
+ (:name "Chyuang"
+  :site "https://chyuang.com/"
+  :blog "https://chyuang.com/writing"
+  :hnuid "yongyongyong"
+  :bio "Writes about patents and quantified self.")
+ 
  (:name "Ciju Cherian"
   :site "https://ciju.in/"
   :blog "https://ciju.in/writings/"
