@@ -246,9 +246,8 @@
  (:name "Chyuang"
   :site "https://chyuang.com/"
   :blog "https://chyuang.com/writing"
-  :about "Writes about patents and quantified self."
   :hnuid "yongyongyong"
-  :bio "Building patent software, sport tools, games and anything topics I find interesting.")
+  :bio "Writes about patents and quantified self.")
  
  (:name "Ciju Cherian"
   :site "https://ciju.in/"
