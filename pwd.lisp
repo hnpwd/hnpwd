@@ -961,7 +961,7 @@
   :feed "https://senthil.learntosolveit.com/rss.xml"
   :about "https://github.com/orsenthil/orsenthil/blob/main/resume/Senthil_Kumaran.pdf"
   :hnuid "orsenthil"
-  :bio "Software Engineer. Writes about Distributed Systems, Games, Books and Ideas")
+  :bio "Software Engineer.  Writes about Distributed Systems, Games, Books and Ideas.")
 
  (:name "Sharmila Gopirajan"
   :site "https://www.minvolai.com/"
