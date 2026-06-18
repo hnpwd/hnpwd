@@ -956,7 +956,7 @@
   :bio "Data scientist and open source contributor.  Writes about solving problems.")
 
   (:name "Senthil Kumaran"
-  :site "https://projects.learntosolveit.com"
+  :site "https://senthil.learntosolveit.com"
   :blog "https://senthil.learntosolveit.com"
   :feed "https://senthil.learntosolveit.com/rss.xml"
   :hnuid "orsenthil"
