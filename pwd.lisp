@@ -955,6 +955,13 @@
   :hnuid "sebasv_"
   :bio "Data scientist and open source contributor.  Writes about solving problems.")
 
+  (:name "Senthil Kumaran"
+  :site "https://senthil.learntosolveit.com"
+  :blog "https://senthil.learntosolveit.com"
+  :feed "https://senthil.learntosolveit.com/rss.xml"
+  :hnuid "orsenthil"
+  :bio "Software Engineer.  Writes about Distributed Systems, Games, Books and Ideas.")
+
  (:name "Sharmila Gopirajan"
   :site "https://www.minvolai.com/"
   :blog "https://www.minvolai.com/blog/"
