@@ -977,6 +977,13 @@
   :hnuid "simonw"
   :bio "Creator of Datasette and co-creator of Django.")
 
+ (:name "Soumendra Kumar Sahoo"
+  :site "https://www.soumendrak.com/"
+  :feed "https://www.soumendrak.com/atom.xml"
+  :about "https://www.soumendrak.com/about/"
+  :hnuid "soumendrak"
+  :bio "AI Observability Architect.  Writes about AI, Open Source, Python and Odia.")
+ 
  (:name "Stefan Judis"
   :site "https://www.stefanjudis.com/"
   :blog "https://www.stefanjudis.com/blog/"
