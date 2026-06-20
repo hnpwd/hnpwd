@@ -1096,6 +1096,12 @@
   :hnuid "WillAbides"
   :bio "A gopher who occasionally writes about Go.")
 
+  (:name "William Ivy"
+  :site "https://www.williamivy.com/"
+  :feed "https://www.williamivy.com/index.xml"
+  :hnuid "wivy1"
+  :bio "Writes about home-lab engineering, electronics and art-tech projects.")
+
  (:name "Xe Iaso"
   :site "https://xeiaso.net/"
   :blog "https://xeiaso.net/blog/"
