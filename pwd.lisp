@@ -736,6 +736,13 @@
   :hnuid "Theaetetus"
   :bio "Itinerant software engineer.  Likes to raise children, read and memorize things.")
 
+ (:name "Nauman Mustafa"
+  :site "https://nauman.im/"
+  :blog "https://nauman.im/writing/"
+  :feed "https://nauman.im/rss.xml"
+  :hnuid "naxalpha"
+  :bio "AI engineer.  Explores topics around ML, vibe coding and tech.")
+ 
  (:name "Neil Kakkar"
   :site "https://neilkakkar.com/"
   :blog "https://neilkakkar.com/blog/"
