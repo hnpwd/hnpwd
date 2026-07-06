@@ -639,6 +639,12 @@
   :hnuid "ItalianPoetry"
   :bio "Wants everyone to read (and listen to) Italian poetry as if they spoke Italian.")
 
+ (:name "Matt Coles"
+  :site "https://coles.codes/"
+  :blog "https://coles.codes/posts/"
+  :feed "https://coles.codes/index.xml"
+  :bio "Principal engineer at AWS.  Writes about Python, AI agents and AWS CDK.")
+
  (:name "Matt Crampton"
   :site "https://www.mattcrampton.com/"
   :feed "https://www.mattcrampton.com/feed.xml"
