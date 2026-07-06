@@ -643,6 +643,7 @@
   :site "https://coles.codes/"
   :blog "https://coles.codes/posts/"
   :feed "https://coles.codes/index.xml"
+  :hnuid "colescodes"
   :bio "Principal engineer at AWS.  Writes about Python, AI agents and AWS CDK.")
 
  (:name "Matt Crampton"
