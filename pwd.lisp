@@ -236,10 +236,10 @@
   :bio "Engineer, pixel pushing and bridge carving.  Computer graphics and game engines.")
 
  (:name "Christopher Besch"
-  :site "https://chris-besch.com"
-  :blog "https://chris-besch.com/articles"
+  :site "https://chris-besch.com/"
+  :blog "https://chris-besch.com/articles/"
   :feed "https://chris-besch.com/rss.xml"
-  :about "https://chris-besch.com/about"
+  :about "https://chris-besch.com/about/"
   :hnuid "chris-besch"
   :bio "Into tinkering and sharing knowledge.  Mostly Open-Source tech and photography.")
 
