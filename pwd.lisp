@@ -235,14 +235,6 @@
   :hnuid "charleszw"
   :bio "Engineer, pixel pushing and bridge carving.  Computer graphics and game engines.")
 
- (:name "Christopher Besch"
-  :site "https://chris-besch.com/"
-  :blog "https://chris-besch.com/articles/"
-  :feed "https://chris-besch.com/rss.xml"
-  :about "https://chris-besch.com/about/"
-  :hnuid "chris-besch"
-  :bio "Into tinkering and sharing knowledge.  Mostly Open-Source tech and photography.")
-
  (:name "Chris Morgan"
   :site "https://chrismorgan.info/"
   :blog "https://chrismorgan.info/blog/"
@@ -250,6 +242,14 @@
   :about "https://chrismorgan.info/about/"
   :hnuid "chrismorgan"
   :bio "Software developer, dealing mostly with web things.")
+
+ (:name "Christopher Besch"
+  :site "https://chris-besch.com/"
+  :blog "https://chris-besch.com/articles/"
+  :feed "https://chris-besch.com/rss.xml"
+  :about "https://chris-besch.com/about/"
+  :hnuid "chris-besch"
+  :bio "Into tinkering and sharing knowledge.  Mostly Open-Source tech and photography.")
 
  (:name "Ciju Cherian"
   :site "https://ciju.in/"
