@@ -241,7 +241,7 @@
   :feed "https://chris-besch.com/rss.xml"
   :about "https://chris-besch.com/about"
   :hnuid "chris-besch"
-  :bio "Into tinkering, sharing knowledge and experiences; mostly Open-Source tech and photography.")
+  :bio "Into tinkering and sharing knowledge.  Mostly Open-Source tech and photography.")
 
  (:name "Chris Morgan"
   :site "https://chrismorgan.info/"
