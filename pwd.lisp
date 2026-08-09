@@ -243,6 +243,14 @@
   :hnuid "chrismorgan"
   :bio "Software developer, dealing mostly with web things.")
 
+ (:name "Christopher Besch"
+  :site "https://chris-besch.com/"
+  :blog "https://chris-besch.com/articles/"
+  :feed "https://chris-besch.com/rss.xml"
+  :about "https://chris-besch.com/about/"
+  :hnuid "chris-besch"
+  :bio "Into tinkering and sharing knowledge.  Mostly Open-Source tech and photography.")
+
  (:name "Ciju Cherian"
   :site "https://ciju.in/"
   :blog "https://ciju.in/writings/"
