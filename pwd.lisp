@@ -235,6 +235,12 @@
   :hnuid "charleszw"
   :bio "Engineer, pixel pushing and bridge carving.  Computer graphics and game engines.")
 
+ (:name "Chillar Anand"
+  :site "https://avilpage.com/"
+  :feed "https://avilpage.com/rss.xml"
+  :hnuid "chillaranand"
+  :bio "Writes about health, wealth and technology.")
+
  (:name "Chris Morgan"
   :site "https://chrismorgan.info/"
   :blog "https://chrismorgan.info/blog/"
