@@ -1012,6 +1012,13 @@
   :hnuid "susam"
   :bio "Creator of Emacs devil-mode.  Writes about technology and mathematics.")
 
+  (:name "Sushant Mondal"
+  :site "https://www.sushantmondal.com/"
+  :blog "https://www.sushantmondal.com/blog/"
+  :feed "https://www.sushantmondal.com/blog/feed/"
+  :hnuid "sushantmondal"
+  :bio "Computer architect and system administrator.  Writes about low-level stuff.")
+
  (:name "Tamimi"
   :site "https://tamim.io/"
   :feed "https://tamim.io/atom.xml"
