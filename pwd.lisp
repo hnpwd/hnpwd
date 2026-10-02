@@ -533,6 +533,14 @@
   :hnuid "zahlman"
   :bio "Tools developer and Python educator.")
 
+ (:name "Kartik Gautam"
+  :site "https://kartikgautam.com/"
+  :blog "https://kartikgautam.com/blogs"
+  :feed "https://kartikgautam.com/feed.xml"
+  :now "https://kartikgautam.com/now"
+  :hnuid "kartik_gautam_"
+  :bio "Full-stack engineer and photographer.  Writes about backends, books and the sky.")
+
  (:name "Keshav Rao"
   :site "https://keshavrao.com/"
   :feed "https://keshavrao.com/feed.xml"
