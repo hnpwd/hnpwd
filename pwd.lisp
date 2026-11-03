@@ -935,6 +935,12 @@
   :hnuid "samwho"
   :bio "Writes visual, interactive essays about software.")
 
+ (:name "Sameer Bajaj"
+  :site "https://sameerbajaj.com/"
+  :feed "https://sameerbajaj.com/feed.xml"
+  :hnuid "sameerbajaj"
+  :bio "Product Manager and Software Builder writing on software and book notes.")
+
  (:name "Scott Harden"
   :site "https://swharden.com/"
   :blog "https://swharden.com/blog/posts/"
