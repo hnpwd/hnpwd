@@ -1123,6 +1123,13 @@
   :hnuid "yobibyte"
   :bio "Machine learning researcher living in the terminal.")
 
+ (:name "Youngjin Kang"
+  :site "https://thingspool.net/"
+  :blog "https://thingspool.net/library.html"
+  :feed "https://thingspool.net/feed.atom"
+  :hnuid "architsch"
+  :bio "Game and web developer.  Writes about philosophy, game design and mathematics.")
+
  (:name "Zac Bentley"
   :site "https://blog.zacbentley.com/"
   :about "https://blog.zacbentley.com/about/"
